@@ -81,7 +81,7 @@ function App() {
         <div className="flex justify-center mb-12">
           <div className="w-80 h-80 flex items-center justify-center animate-bounce">
             <img 
-              src="src/assets/New Project (71).png" 
+              src="public/images/New Project (71).png" 
               alt="Purp Character" 
               className="w-full h-full object-contain"
             />
@@ -110,7 +110,7 @@ function App() {
             >
               {i === 1 ? (
                 <img 
-                  src="src/assets/gfhfi copy copy copy copy.png" 
+                  src="public/images/gfhfi copy copy copy copy.png" 
                   alt="Purp Character" 
                   className="w-full h-full object-contain p-2"
                 />
@@ -122,13 +122,13 @@ function App() {
                 />
               ) : i === 3 ? (
                 <img 
-                  src="src/assets/389.png" 
+                  src="public/images/389.png" 
                   alt="Purp Character" 
                   className="w-full h-full object-contain p-2"
                 />
               ) : (
                 <img 
-                  src="src/assets/jgifj copy copy.png" 
+                  src="public/images/jgifj copy copy.png" 
                   alt="Purp Character" 
                   className="w-full h-full object-contain p-2"
                 />
