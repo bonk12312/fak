@@ -116,7 +116,7 @@ function App() {
                 />
               ) : i === 2 ? (
                 <img 
-                  src="src/assets/photo_5317024523398281869_y copy copy.jpg" 
+                  src="public/images/photo_5317024523398281869_y copy copy.jpg" 
                   alt="Purp Character" 
                   className="w-full h-full object-contain p-2"
                 />
