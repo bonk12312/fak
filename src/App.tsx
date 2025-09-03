@@ -110,25 +110,25 @@ function App() {
             >
               {i === 1 ? (
                 <img 
-                  src="/images/m343" 
+                  src="/images/Untitled design - 2025-09-03T235839.350.png" 
                   alt="Purp Character" 
                   className="w-full h-full object-contain p-2"
                 />
               ) : i === 2 ? (
                 <img 
-                  src="/images/7cum" 
+                  src="/images/Untitled design - 2025-09-03T235911.251.png" 
                   alt="Purp Character" 
                   className="w-full h-full object-contain p-2"
                 />
               ) : i === 3 ? (
                 <img 
-                  src="/images/789ihgg" 
+                  src="/images/Untitled design - 2025-09-03T235926.902.png" 
                   alt="Purp Character" 
                   className="w-full h-full object-contain p-2"
                 />
               ) : (
                 <img 
-                  src="/images/mamya" 
+                  src="/images/Untitled design - 2025-09-03T235853.857.png" 
                   alt="Purp Character" 
                   className="w-full h-full object-contain p-2"
                 />
